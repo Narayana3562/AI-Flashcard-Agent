@@ -1,0 +1,8 @@
+.env
+study_memory.json
+study_memory.tmp
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.ipython-notebook-check/
